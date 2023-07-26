@@ -1,4 +1,4 @@
-![image](https://c.tenor.com/Bks2Si272y4AAAAC/obi-wan-kenobi-hello-there.gif)
+![image](https://media.tenor.com/kaAcIr4bZ3IAAAAC/obi-wan-kenobi-star-wars.gif)
 
 <!--
 **ehrhardt06/ehrhardt06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
