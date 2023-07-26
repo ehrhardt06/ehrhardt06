@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://c.tenor.com/Bks2Si272y4AAAAC/obi-wan-kenobi-hello-there.gif)
 
 <!--
 **ehrhardt06/ehrhardt06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
